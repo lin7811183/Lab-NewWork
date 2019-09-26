@@ -1,0 +1,6 @@
+framework module Pods_NetworkLab {
+  umbrella header "Pods-NetworkLab-umbrella.h"
+
+  export *
+  module * { export * }
+}

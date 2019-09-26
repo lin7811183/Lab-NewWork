@@ -1,0 +1,22 @@
+PODS:
+  - GDataXML-HTML (1.4.1)
+  - SDWebImage (5.0.2):
+    - SDWebImage/Core (= 5.0.2)
+  - SDWebImage/Core (5.0.2)
+
+DEPENDENCIES:
+  - GDataXML-HTML
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GDataXML-HTML
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  GDataXML-HTML: a4f11079b48d9fe96ff1fe478943a317185227e2
+  SDWebImage: 6764b5fa0f73c203728052955dbefa2bf1f33282
+
+PODFILE CHECKSUM: 3b76e7384851b75a73074e91cdc13640df395128
+
+COCOAPODS: 1.6.1
